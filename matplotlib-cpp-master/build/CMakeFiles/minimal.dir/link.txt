@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/minimal.dir/examples/minimal.cpp.o -o bin/minimal  /usr/local/lib/libpython3.9.a -lcrypt -lpthread -ldl -lutil -lm 

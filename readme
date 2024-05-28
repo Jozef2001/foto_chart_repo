@@ -1,0 +1,20 @@
+wykorzystana biblioteka: matplotlib-cpp
+
+zainstalwoac paczki pythonowe
+sudo apt-get install python-matplotlib python-numpy python2.7-dev
+
+zainstalowac wedlug instrukcji w repo: https://github.com/lava/matplotlib-cpp
+pobrac repo
+mkdir build --> w folderze repo
+cd build
+cmake ..
+make
+sudo make install
+
+przekopiowac plik matplotlibcpp.h do folderu z wykres.h
+
+
+
+w zaleznosci od wersji pythona zmienic makefile
+
+
